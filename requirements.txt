@@ -3,4 +3,4 @@ uvicorn>=0.34.2
 scikit-learn>=1.6.1
 pandas>=2.2.3
 numpy>=2.2.5
-joblib>=1.4.2
+joblib>=1.5.3
